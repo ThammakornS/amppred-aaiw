@@ -1,4 +1,4 @@
-**Please use Conada for running this Shiny app**  
+**Please use Conda for running this Shiny app**  
 
 *The created environment should included*  
 1. R version > 3.4.2 
